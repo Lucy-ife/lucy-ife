@@ -2,17 +2,10 @@
 
 
 
-- 🔭  Software Engineer sharing my learning experience in Tech 
-- 🌱 Studied English Language and Literature at the Nnamdi Azikiwe University, Awka 
-- 👯 I’m looking to collaborate with big Tech website develpoment companies
-  
-- 💬 Ask me about Anything Website Develoment
-
-- ⚡ Currently learning Front end and Backend engineer
 
 
 # 💫 About Me:
-<br>  Software Engineer sharing my learning experience in Tech <br>- 🌱 Studied English Language and Literature at the Nnamdi Azikiwe University, Awka <br>- 👯 I’m looking to collaborate with big Tech website develpoment companies<br>  <br>- 💬 Ask me about Anything Website Develoment<br><br>- ⚡ Currently learning Front end and Backend engineer<br>- <br>-->
+<br> 🌱 Studied English Language and Literature at the Nnamdi Azikiwe University, Awka <br>- 👯 I’m looking to collaborate with big Tech website develpoment companies<br> 💬 Ask me about Anything Website Develoment<br>- ⚡ Currently learning Front end and Backend engineer<br>
 
 
 ## 🌐 Socials:
